@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justforvpn
-this profile is just for the personal use not for any kind of projects 
+- this profile is just for personal use, not for any kind of projects 
 
 
 <!---
