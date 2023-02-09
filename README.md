@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @justforvpn
-- this profile is just for personal use, not for any kind of projects 
+# Hi, I'm Hemanth Kumar Narra 🙋‍♂️
 
+I'm a beginner programmer with basic knowledge of Python, HTML, and CSS. In my leisure time, I enjoy coding simple Telegram bots.
 
-<!---
-justforvpn/justforvpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm always looking to improve my skills and learn new things, so I'm always open to new challenges and projects.
+
+If you want to know more about me, feel free to check out my Github profile or reach out to me directly.
+
+:computer: :robot: :rocket:
+
