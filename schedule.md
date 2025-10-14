@@ -1,0 +1,34 @@
+# CA Inter Revision Exams Schedule (Series 2) - Group 1
+
+This is a reprint of the schedule based on the provided images, organized chronologically by date in markdown format. The structure follows the original tables, with topics, exam formats (e.g., descriptive, MCQs, cumulative testing notes), and any special notes included for each paper. Papers are:
+
+- **Paper 1: Advanced Accounting**
+- **Paper 2: Corporate & Other Laws**
+- **Paper 3: Taxation** (split into Income Tax and GST where applicable)
+
+## Revision Exams Schedule
+
+| Date          | Time Slot       | Number of Exams | Paper 1: Advanced Accounting                                                                 | Paper 2: Corporate & Other Laws                                                                 | Paper 3: Taxation                                                                 |
+|---------------|-----------------|-----------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 24.09.2025   | Wed Afternoon  | 3 Exams        | Introduction to Accounting Standards + AS-4 + AS-5 + AS-17                                  | Preliminary - Formation & Incorporation of a Company (Including Related Matters) [No Cumulative Testing, 30m Descriptive & 12m MCQs from this syllabus itself] | Income Tax - Introduction to Income Tax + Resident Status - I + Income from House Property [No Cumulative Testing, 30m Descriptive & 12m MCQs from this syllabus itself] |
+| 30.09.2025   | Tue Morning    | 3 Exams        | Accounting for Reconstruction of Companies + Cash Flow Statements (Including AS 3)          | MOA and AOA Including Alteration + Limited Liability Partnership Act [Descriptive - 25M+5M, MCQs - 12M] | GST - Introduction to GST + Supply Under GST [No Cumulative Testing, 30m Descriptive & 12m MCQs from this syllabus itself] |
+| 08.10.2025   | Wed Afternoon  | 2 Exams        | AS-9 - Investment Accounts (Including AS 13)                                                | The General Clauses Act, 1897 + Interpretation of Statutes [Descriptive - 25M+5M, MCQs - 12M]  | Income Tax - Income from Salaries + Advance Tax and Interest [Descriptive - 25M+5M, MCQs - 12M] |
+| 15.10.2025   | Wed Afternoon  | 2 Exams        | Consolidated Financial Statements (Including AS 21) + Accounting for Investments in Associates in Consolidated Financial Statements (Including AS 23) + Financial Reporting of Interests in Joint Ventures (Including AS 27) [Descriptive: 55M, MCQs: 22M] | No Exam since we are conducting 55 Marks Exams in another subject                              | GST - Levy and Collection of GST + Payment of Tax + Returns [Descriptive - 25M+5M, MCQs - 12M] |
+| 29.10.2025   | Wed Afternoon  | 3 Exams        | AS-20 + AS-22                                                                               | General Meetings - 1 + General Meetings - 2 [No Cumulative Testing, 30m Descriptive & 12m MCQs from this syllabus itself] | Income Tax - Tax Deduction at Source (TDS) and Tax Collection at Source (TCS) + Income from Other Sources Included in Assessee's Total Income [No Cumulative Testing, 30m Descriptive & 12m MCQs from this syllabus itself] |
+| 05.11.2025   | Wed Afternoon  | 3 Exams        | Amalgamation of Companies (Incl. AS 14)                                                     | Company Audit (Also Called Audit & Auditors) [Descriptive - 25M+5M, MCQs - 12M]               | GST - Exemptions from GST + Time and Value of Supply + Registration [Descriptive - 25M+5M, MCQs - 12M] |
+| 12.11.2025   | Wed Afternoon  | 3 Exams        | AS-10 + AS-12 + AS-2 + AS-19                                                                | Declaration and Payment of Dividend (Sec 123-127) + Private Placement + Issue of Prospectus & Related Matters (Including Allotment) [Descriptive - 25M+5M, MCQs - 12M] | Income Tax - Set off and Carry Forward of Losses + Capital Gains + Provisions for Filing Return of Income and Self-Assessment [Descriptive - 25M+5M, MCQs - 12M] |
+| 26.11.2025   | Wed Afternoon  | 3 Exams        | Company Final Accounts + Accounting for Independent & Foreign Branches                      | Accounts of Companies [No Cumulative Testing, 30m Descriptive & 12m MCQs from this syllabus itself] | GST - Input Tax Credit + Tax Deduction at Source and Collection of Tax at Sources (TDS & TCS) + Income from Other Sources Included in Assessee's Total Income [No Cumulative Testing, 30m Descriptive & 12m MCQs from this syllabus itself] |
+| 03.12.2025   | Wed Afternoon  | 3 Exams        | Accounting for Dependent Branches + AS-25 + AS-29                                           | The Foreign Exchange Management Act, 1999 + Companies Incorporated Outside India [Descriptive - 25M+5M, MCQs - 12M] | Income Tax - Profits and Gains of Business or Profession + Deductions from Gross Total Income [Descriptive - 25M+5M, MCQs - 12M] |
+| 10.12.2025   | Wed Afternoon  | 3 Exams        | Buyback of Securities + AS-6 + AS-26                                                        | Transfer & Transmission of Shares + Share Capital + Alteration of Share Capital + Debentures [Descriptive - 25M+5M, MCQs - 12M] | GST - Place of Supply + Tax Invoice, Credit Notes & E-way Bill + Comprehensive Problems [Descriptive - 25M+5M, MCQs - 12M] |
+| 17.12.2025   | Wed Afternoon  | 3 Exams        | AS-16 + AS-15 + AS-18 + AS-28                                                               | Registration of Charges (Charges Register) & Annual Returns + Acceptance of Deposits by Companies (Deposits) [Descriptive - 25M+5M, MCQs - 12M] | Income Tax - Computation of Total Income and Tax Liability of Individuals [Descriptive - 25M+5M, MCQs - 12M] |
+
+## Additional Notes from Schedule
+- **Semi-Final Exams**: Mentioned as from 17.11.2025 to 22.11.2025, but no specific topics or details provided in the images.
+- **No Need to Prepare These Chapters for Any Exams**: The schedule indicates a blank or unspecified section here, but no explicit chapters listed as exempt in the provided content.
+- **These Chapters Will Be Tested in Pre-Final Exams Only**:
+  - **Paper 1**: Framework for Preparation and Presentation of Financial Statements + AS-1 + AS-24 + Comprehensive Problems on Accounting Standards (Multiple Standards)
+  - **Paper 2**: Comprehensive Questions in Company Law
+  - **Paper 3 (Income Tax)**: Resident Status - II + Incomes which do not form part of Total Income + Taxability of Deemed Income & Miscellaneous Topics
+  - **Paper 3 (GST)**: Inspection, Search, Seizure & Arrest + Demand & Recovery + Offences & Penalties + Appeals & Revision + Advance Ruling + Miscellaneous Provisions
+
+**Schedule Version**: 1st Version of this Schedule Issued on 21/09/25 | Applicable to Jan 2026 Attempt.
