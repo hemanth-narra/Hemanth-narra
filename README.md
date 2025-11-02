@@ -54,8 +54,8 @@ You’ll mostly find:
 
 I’m always happy to chat with other beginners, tech hobbyists, or anyone who enjoys tinkering with self-hosted software.
 
-- 📧 Reach me at: 
-- 🌐 Portfolio or Blog: 
+- 📧 Reach me at: https://narra.eu.org/
+- 🌐 Blog: https://blog.narra.eu.org/
 
 Thanks for visiting my profile — feel free to explore and learn along with me! 🚀
 
