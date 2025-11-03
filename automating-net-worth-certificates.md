@@ -32,7 +32,7 @@ No more typos. No more back-and-forth.
 
 ## Auto-Folder Creation
 
-Once the PAN is read, the web app creates a folder structure like this in the system or server:
+Once the PAN is read, the web app creates a folder structure like this in the system or server it is hosted:
 ```
 Desktop/
 └── Clients/
@@ -44,7 +44,7 @@ This becomes the client’s vault—everything related to them goes here. Drafts
 
 ## Asset and Liability Entry Interface
 
-The web app includes a clean, browser-based form for entering asset and liability details. We simply open the app in the browser and fill out the form directly—no need for external tools or manual Word editing.
+The web app includes a clean, browser-based form for entering asset and liability details. We simply open the app in the browser pop-up window and fill out the form directly—no need for external tools or manual Word editing.
 
 Here’s how the form works:
 
