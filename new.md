@@ -33,3 +33,85 @@ No more typos. No more back-and-forth.
 ## Auto-Folder Creation
 
 Once the PAN is read, the system creates a folder structure like this:
+```
+Desktop/
+└── Clients/
+    └── Networth Certificates/
+        └── [Client Name extracted from PAN]/
+```
+
+This becomes the client’s vault—everything related to them goes here. Drafts, final documents, signed scans, even future certificates.
+
+## Asset and Liability Entry Interface
+
+Instead of typing into Word, we now enter asset and liability details into a form. Land, gold, bank balances, loans—each has its own field. The form calculates totals, formats the values, and prepares the certificate in our standard layout.
+
+Here’s the full format it uses:
+
+---
+
+### NETWORTH STATEMENT
+
+This is to certify that the Net Worth of **[Name extracted from PAN]**,  
+bearing PAN Number **[PAN extracted from PAN card]**,  
+residing at **[Address extracted from Aadhaar]**,  
+as on **[Date selected in form]**, is as follows:
+
+#### Immovable Properties in India
+
+| S. No | Particulars | Amount (Rs.) |
+|------|-------------|--------------|
+| 1    | [Land/Building details with market value] | ₹XX,XX,XXX.00 |
+
+#### Movable Properties in India
+
+| S. No | Particulars | Amount (Rs.) |
+|------|-------------|--------------|
+| 2    | [Gold, vehicles, etc.] | ₹XX,XX,XXX.00 |
+
+#### Cash and Bank Balances
+
+| S. No | Particulars | Amount (Rs.) |
+|------|-------------|--------------|
+| 3    | [Bank balances, cash on hand] | ₹XX,XXX.00 |
+
+#### Liabilities
+
+| S. No | Particulars | Amount (Rs.) |
+|------|-------------|--------------|
+| 4    | [Loans, credit card dues, etc.] | ₹XX,XX,XXX.00 |
+
+#### Summary
+
+| Description | Amount |
+|-------------|--------|
+| Total Assets | ₹XX,XX,XXX.00 |
+| Total Liabilities | ₹XX,XX,XXX.00 |
+| Net Worth | ₹XX,XX,XXX.00 |
+
+The above information is based on documentary evidence and declarations provided by the client.
+
+For [CA Firm Name]  
+Chartered Accountants  
+Firm Reg No. [Auto-filled]  
+UDIN: [Entered manually]  
+Date: [Auto-filled]  
+Place: [Auto-filled]
+
+---
+
+## UDIN Entry
+
+Unfortunately, ICAI doesn’t provide any API for UDIN generation. So we still have to generate it manually from the ICAI portal. Once done, we enter it into the web app, and it embeds the UDIN into the final certificate.
+
+## Upload Signed Copy and Supporting Docs
+
+After printing the certificate on the firm’s letterhead and signing/stamping it, we scan the document and upload it back into the app. It reads the content to confirm it matches the draft and saves it in the correct client folder.
+
+There’s also an option to upload other supporting files—like title deeds, valuation proofs, or screenshots sent by the client. Everything stays bundled together.
+
+## Why This Works
+
+It’s not just about saving time. It’s about consistency, accuracy, and scalability. Whether you’re handling 5 clients or 500, the workflow stays the same. And because it’s self-hosted, client data stays secure.
+
+This system doesn’t replace the CA’s judgment—it just removes the friction.
