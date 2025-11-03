@@ -44,7 +44,24 @@ This becomes the client’s vault—everything related to them goes here. Drafts
 
 ## Asset and Liability Entry Interface
 
-Instead of typing into Word, we now enter asset and liability details into a form. Land, gold, bank balances, loans—each has its own field. The form calculates totals, formats the values, and prepares the certificate in our standard layout.
+The web app includes a clean, browser-based form for entering asset and liability details. We simply open the app in the browser and fill out the form directly—no need for external tools or manual Word editing.
+
+Here’s how the form works:
+
+- **Categorized Sections**: The form is divided into logical sections—Immovable Assets, Movable Assets, Bank Balances, and Liabilities. Each section has its own input fields for descriptions and values.
+
+- **Dynamic Entry Support**: You can add multiple entries under each category. For example, if a client owns two plots of land or has three bank accounts, you can add each one separately. The form dynamically expands to accommodate them.
+
+- **Real-Time Calculations**: As you enter values, the form automatically calculates totals for each section. It also computes the overall Total Assets, Total Liabilities, and Net Worth in real time.
+
+- **Validation and Formatting**: The form ensures that all numeric fields are properly formatted (e.g., ₹XX,XX,XXX.00) and checks for missing or invalid entries before allowing you to proceed.
+
+This form replaces the need for spreadsheets, calculators, and manual Word templates. It’s fast, accurate, and consistent—especially helpful when handling multiple clients in a day.
+
+
+## Template Integration
+
+Once the form is complete, the app uses the data to generate a Net Worth Certificate in our standard format. It includes the client’s name, PAN, address, asset breakdown, liabilities, and net worth summary.
 
 Here’s the full format it uses:
 
@@ -103,6 +120,10 @@ Place: [Auto-filled]
 ## UDIN Entry
 
 Unfortunately, ICAI doesn’t provide any API for UDIN generation. So we still have to generate it manually from the ICAI portal. Once done, we enter it into the web app, and it embeds the UDIN into the final certificate.
+
+## Export Options
+
+The certificate is rendered as a PDF or Word file, ready to be printed on the firm’s letterhead. You can also save it directly to the client’s folder created earlier.
 
 ## Upload Signed Copy and Supporting Docs
 
