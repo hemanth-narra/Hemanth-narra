@@ -32,7 +32,7 @@ No more typos. No more back-and-forth.
 
 ## Auto-Folder Creation
 
-Once the PAN is read, the system creates a folder structure like this:
+Once the PAN is read, the web app creates a folder structure like this in the system or server:
 ```
 Desktop/
 └── Clients/
