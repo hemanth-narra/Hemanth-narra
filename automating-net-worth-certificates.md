@@ -65,6 +65,8 @@ Once the form is complete, the app uses the data to generate a Net Worth Certifi
 
 Here’s the full format it uses:
 
+---
+
 ### NETWORTH STATEMENT
 
 This is to certify that the Net Worth of **[Name extracted from PAN]**,  
@@ -112,6 +114,8 @@ Firm Reg No. [Auto-filled]
 UDIN: [Entered manually]  
 Date: [Auto-filled]  
 Place: [Auto-filled]
+
+---
 
 ## UDIN Entry
 
