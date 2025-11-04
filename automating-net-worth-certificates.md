@@ -136,3 +136,5 @@ There’s also an option to upload other supporting files—like title deeds, va
 It’s not just about saving time. It’s about consistency, accuracy, and scalability. Whether you’re handling 5 clients or 500, the workflow stays the same. And because it’s self-hosted, client data stays secure.
 
 This system doesn’t replace the CA’s judgment—it just removes the friction.
+
+I'll make the web app code public in a few days, open-sourcing it for anyone to adapt and improve. Stay tuned!
