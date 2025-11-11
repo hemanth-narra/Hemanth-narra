@@ -1,0 +1,4162 @@
+{
+    "gstin": "36AAFCD3791B1ZT",
+    "fp": "102025",
+    "b2b": [
+        {
+            "ctin": "36ACGFA4702M1ZD",
+            "inv": [
+                {
+                    "inum": "DNE/H/0969/25-26",
+                    "idt": "01-10-2025",
+                    "val": 71357,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 10000,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 58435,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 1460.88,
+                                "samt": 1460.88,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0986/25-26",
+                    "idt": "03-10-2025",
+                    "val": 3259,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3104,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 77.6,
+                                "samt": 77.6,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0990/25-26",
+                    "idt": "04-10-2025",
+                    "val": 23982,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 22840,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 571,
+                                "samt": 571,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0999/25-26",
+                    "idt": "07-10-2025",
+                    "val": 19450,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 10000,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 9000,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 225,
+                                "samt": 225,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1012/25-26",
+                    "idt": "08-10-2025",
+                    "val": 6615,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 6300,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 157.5,
+                                "samt": 157.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1022/25-26",
+                    "idt": "09-10-2025",
+                    "val": 15330,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 14600,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 365,
+                                "samt": 365,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1031/25-26",
+                    "idt": "11-10-2025",
+                    "val": 11462,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 10916,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 272.9,
+                                "samt": 272.9,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1054/25-26",
+                    "idt": "15-10-2025",
+                    "val": 23546,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 22425,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 560.63,
+                                "samt": 560.63,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1064/25-26",
+                    "idt": "17-10-2025",
+                    "val": 19058,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 18150,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 453.75,
+                                "samt": 453.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1073/25-26",
+                    "idt": "18-10-2025",
+                    "val": 38598,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 36760,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 919,
+                                "samt": 919,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1079/25-26",
+                    "idt": "22-10-2025",
+                    "val": 11009,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 10485,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 262.13,
+                                "samt": 262.13,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1097/25-26",
+                    "idt": "25-10-2025",
+                    "val": 10765,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5200,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 5300,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 132.5,
+                                "samt": 132.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36ABBCS1727P1ZZ",
+            "inv": [
+                {
+                    "inum": "DNE/H/0970/25-26",
+                    "idt": "01-10-2025",
+                    "val": 36886,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3945,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 31372,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 784.3,
+                                "samt": 784.3,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0971/25-26",
+                    "idt": "01-10-2025",
+                    "val": 50410,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3385,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 42122,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 1053.05,
+                                "samt": 1053.05,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 3,
+                            "itm_det": {
+                                "txval": 2370,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 213.3,
+                                "samt": 213.3,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0974/25-26",
+                    "idt": "01-10-2025",
+                    "val": 16085,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 12060,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 301.51,
+                                "samt": 301.51,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 2900,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 261,
+                                "samt": 261,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0983/25-26",
+                    "idt": "03-10-2025",
+                    "val": 9127,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5000,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 3930,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 98.25,
+                                "samt": 98.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0984/25-26",
+                    "idt": "03-10-2025",
+                    "val": 3570,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3400,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 85,
+                                "samt": 85,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0988/25-26",
+                    "idt": "04-10-2025",
+                    "val": 14261,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5000,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 8820,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 220.5,
+                                "samt": 220.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0989/25-26",
+                    "idt": "04-10-2025",
+                    "val": 7938,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 7560,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 189,
+                                "samt": 189,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0992/25-26",
+                    "idt": "06-10-2025",
+                    "val": 17603,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3900,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 13050,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 326.25,
+                                "samt": 326.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0994/25-26",
+                    "idt": "06-10-2025",
+                    "val": 30933,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 29460,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 736.5,
+                                "samt": 736.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0995/25-26",
+                    "idt": "06-10-2025",
+                    "val": 11183,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 10650,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 266.25,
+                                "samt": 266.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1004/25-26",
+                    "idt": "07-10-2025",
+                    "val": 9177,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 8740,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 218.5,
+                                "samt": 218.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1008/25-26",
+                    "idt": "08-10-2025",
+                    "val": 2573,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2450,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 61.25,
+                                "samt": 61.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1009/25-26",
+                    "idt": "08-10-2025",
+                    "val": 14611,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 13915,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 347.88,
+                                "samt": 347.88,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1019/25-26",
+                    "idt": "09-10-2025",
+                    "val": 2205,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2100,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 52.5,
+                                "samt": 52.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1025/25-26",
+                    "idt": "10-10-2025",
+                    "val": 22807,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2500,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 19340,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 483.5,
+                                "samt": 483.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1026/25-26",
+                    "idt": "10-10-2025",
+                    "val": 2993,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2850,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 71.25,
+                                "samt": 71.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1034/25-26",
+                    "idt": "11-10-2025",
+                    "val": 12757,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 6530,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 163.25,
+                                "samt": 163.25,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 5000,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 450,
+                                "samt": 450,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1044/25-26",
+                    "idt": "13-10-2025",
+                    "val": 1617,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1540,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 38.5,
+                                "samt": 38.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1045/25-26",
+                    "idt": "13-10-2025",
+                    "val": 32342,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 885,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 28442,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 711.05,
+                                "samt": 711.05,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 3,
+                            "itm_det": {
+                                "txval": 1350,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 121.5,
+                                "samt": 121.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1055/25-26",
+                    "idt": "15-10-2025",
+                    "val": 3570,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3400,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 85,
+                                "samt": 85,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1057/25-26",
+                    "idt": "16-10-2025",
+                    "val": 25862,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5000,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 19869,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 496.73,
+                                "samt": 496.73,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1062/25-26",
+                    "idt": "17-10-2025",
+                    "val": 9925,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 6250,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 3500,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 87.5,
+                                "samt": 87.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1068/25-26",
+                    "idt": "17-10-2025",
+                    "val": 263,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 250,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 6.25,
+                                "samt": 6.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1070/25-26",
+                    "idt": "18-10-2025",
+                    "val": 5555,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5290,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 132.25,
+                                "samt": 132.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1072/25-26",
+                    "idt": "18-10-2025",
+                    "val": 5345,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 4290,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 107.25,
+                                "samt": 107.25,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 750,
+                                "rt": 12,
+                                "iamt": 0,
+                                "camt": 45,
+                                "samt": 45,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1076/25-26",
+                    "idt": "22-10-2025",
+                    "val": 36582,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2500,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 32459,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 811.48,
+                                "samt": 811.48,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1077/25-26",
+                    "idt": "22-10-2025",
+                    "val": 39320,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5000,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 32686,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 817.15,
+                                "samt": 817.15,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1087/25-26",
+                    "idt": "23-10-2025",
+                    "val": 12217,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 11635,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 290.88,
+                                "samt": 290.88,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1092/25-26",
+                    "idt": "23-10-2025",
+                    "val": 7981,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2500,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 5220,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 130.5,
+                                "samt": 130.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1094/25-26",
+                    "idt": "24-10-2025",
+                    "val": 19097,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 18188,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 454.7,
+                                "samt": 454.7,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1098/25-26",
+                    "idt": "25-10-2025",
+                    "val": 5985,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5700,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 142.5,
+                                "samt": 142.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1099/25-26",
+                    "idt": "25-10-2025",
+                    "val": 7289,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5000,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 2180,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 54.5,
+                                "samt": 54.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1114/25-26",
+                    "idt": "30-10-2025",
+                    "val": 6164,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5870,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 146.75,
+                                "samt": 146.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1118/25-26",
+                    "idt": "31-10-2025",
+                    "val": 4200,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 4000,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 100,
+                                "samt": 100,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AACCG5232H1ZT",
+            "inv": [
+                {
+                    "inum": "DNE/H/0972/25-26",
+                    "idt": "01-10-2025",
+                    "val": 30921,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 29449,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 736.23,
+                                "samt": 736.23,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1014/25-26",
+                    "idt": "08-10-2025",
+                    "val": 17598,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 16760,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 419,
+                                "samt": 419,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1090/25-26",
+                    "idt": "23-10-2025",
+                    "val": 12980,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 11000,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 990,
+                                "samt": 990,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1096/25-26",
+                    "idt": "25-10-2025",
+                    "val": 35251,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 33572,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 839.3,
+                                "samt": 839.3,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AASCS2460H1Z1",
+            "inv": [
+                {
+                    "inum": "DNE/H/0975/25-26",
+                    "idt": "01-10-2025",
+                    "val": 20318,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 19350,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 483.75,
+                                "samt": 483.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0985/25-26",
+                    "idt": "03-10-2025",
+                    "val": 4961,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 4725,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 118.13,
+                                "samt": 118.13,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0996/25-26",
+                    "idt": "06-10-2025",
+                    "val": 32288,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 30750,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 768.75,
+                                "samt": 768.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AAWCA9997P1Z2",
+            "inv": [
+                {
+                    "inum": "DNE/H/0978/25-26",
+                    "idt": "01-10-2025",
+                    "val": 11967,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 8645,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 216.13,
+                                "samt": 216.13,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 2580,
+                                "rt": 12,
+                                "iamt": 0,
+                                "camt": 154.8,
+                                "samt": 154.8,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1001/25-26",
+                    "idt": "07-10-2025",
+                    "val": 2646,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2520,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 63,
+                                "samt": 63,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1006/25-26",
+                    "idt": "07-10-2025",
+                    "val": 2825,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2690,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 67.25,
+                                "samt": 67.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1040/25-26",
+                    "idt": "13-10-2025",
+                    "val": 5712,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5440,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 136,
+                                "samt": 136,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1052/25-26",
+                    "idt": "15-10-2025",
+                    "val": 8175,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 7786,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 194.65,
+                                "samt": 194.65,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AAFCC6993E1ZE",
+            "inv": [
+                {
+                    "inum": "DNE/H/0980/25-26",
+                    "idt": "03-10-2025",
+                    "val": 20100,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2500,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 16762,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 419.05,
+                                "samt": 419.05,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/0981/25-26",
+                    "idt": "03-10-2025",
+                    "val": 23883,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5300,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 9550,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 238.75,
+                                "samt": 238.75,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 3,
+                            "itm_det": {
+                                "txval": 7250,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 652.5,
+                                "samt": 652.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1032/25-26",
+                    "idt": "11-10-2025",
+                    "val": 4358,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 4150,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 103.75,
+                                "samt": 103.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1038/25-26",
+                    "idt": "13-10-2025",
+                    "val": 3465,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3300,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 82.5,
+                                "samt": 82.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1042/25-26",
+                    "idt": "13-10-2025",
+                    "val": 10942,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2500,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 8040,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 201,
+                                "samt": 201,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1058/25-26",
+                    "idt": "16-10-2025",
+                    "val": 13125,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5550,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 7214,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 180.35,
+                                "samt": 180.35,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1080/25-26",
+                    "idt": "22-10-2025",
+                    "val": 7803,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2500,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 5050,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 126.25,
+                                "samt": 126.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1091/25-26",
+                    "idt": "23-10-2025",
+                    "val": 12452,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 6240,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 156,
+                                "samt": 156,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 5000,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 450,
+                                "samt": 450,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1117/25-26",
+                    "idt": "31-10-2025",
+                    "val": 3990,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1680,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 2200,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 55,
+                                "samt": 55,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AONPT9064Q1ZO",
+            "inv": [
+                {
+                    "inum": "DNE/H/0982/25-26",
+                    "idt": "03-10-2025",
+                    "val": 15038,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 14322,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 358.05,
+                                "samt": 358.05,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1017/25-26",
+                    "idt": "09-10-2025",
+                    "val": 21910,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 20867,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 521.68,
+                                "samt": 521.68,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1041/25-26",
+                    "idt": "13-10-2025",
+                    "val": 27728,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 26408,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 660.2,
+                                "samt": 660.2,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1065/25-26",
+                    "idt": "17-10-2025",
+                    "val": 21666,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 20634,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 515.85,
+                                "samt": 515.85,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1103/25-26",
+                    "idt": "27-10-2025",
+                    "val": 24842,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 23659,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 591.48,
+                                "samt": 591.48,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "37MUUPS2886N1ZY",
+            "inv": [
+                {
+                    "inum": "DNE/H/0993/25-26",
+                    "idt": "06-10-2025",
+                    "val": 1575,
+                    "pos": "37",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1500,
+                                "rt": 5,
+                                "iamt": 75,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1056/25-26",
+                    "idt": "16-10-2025",
+                    "val": 39655,
+                    "pos": "37",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2500,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 35385.7,
+                                "rt": 5,
+                                "iamt": 1769.29,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "33AAFCD3791B1ZZ",
+            "inv": [
+                {
+                    "inum": "DNE/H/0998/25-26",
+                    "idt": "06-10-2025",
+                    "val": 80144,
+                    "pos": "33",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 22400,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 50621.04,
+                                "rt": 5,
+                                "iamt": 2531.05,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 3,
+                            "itm_det": {
+                                "txval": 4100,
+                                "rt": 12,
+                                "iamt": 492,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1023/25-26",
+                    "idt": "09-10-2025",
+                    "val": 14963,
+                    "pos": "33",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 14250,
+                                "rt": 5,
+                                "iamt": 712.5,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AAICS7372J1ZT",
+            "inv": [
+                {
+                    "inum": "DNE/H/1002/25-26",
+                    "idt": "07-10-2025",
+                    "val": 5565,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5300,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 132.5,
+                                "samt": 132.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1088/25-26",
+                    "idt": "23-10-2025",
+                    "val": 3397,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3235,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 80.88,
+                                "samt": 80.88,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AAFCF1193F1ZR",
+            "inv": [
+                {
+                    "inum": "DNE/H/1003/25-26",
+                    "idt": "07-10-2025",
+                    "val": 13269,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2160,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 10580,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 264.5,
+                                "samt": 264.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1018/25-26",
+                    "idt": "09-10-2025",
+                    "val": 27778,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 26455,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 661.38,
+                                "samt": 661.38,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1043/25-26",
+                    "idt": "13-10-2025",
+                    "val": 3150,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3000,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 75,
+                                "samt": 75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1061/25-26",
+                    "idt": "17-10-2025",
+                    "val": 10077,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2160,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 7540,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 188.5,
+                                "samt": 188.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1069/25-26",
+                    "idt": "18-10-2025",
+                    "val": 37590,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 35800,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 895,
+                                "samt": 895,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1081/25-26",
+                    "idt": "22-10-2025",
+                    "val": 10112,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 9630,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 240.75,
+                                "samt": 240.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1089/25-26",
+                    "idt": "23-10-2025",
+                    "val": 22071,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 21020,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 525.5,
+                                "samt": 525.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1115/25-26",
+                    "idt": "30-10-2025",
+                    "val": 5880,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5600,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 140,
+                                "samt": 140,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AAJFF6564H1Z4",
+            "inv": [
+                {
+                    "inum": "DNE/H/1010/25-26",
+                    "idt": "08-10-2025",
+                    "val": 6846,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 6520,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 163,
+                                "samt": 163,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1048/25-26",
+                    "idt": "14-10-2025",
+                    "val": 4403,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 4193.5,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 104.84,
+                                "samt": 104.84,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1060/25-26",
+                    "idt": "16-10-2025",
+                    "val": 13725,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 13071,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 326.78,
+                                "samt": 326.78,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1101/25-26",
+                    "idt": "25-10-2025",
+                    "val": 9305,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 8862,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 221.55,
+                                "samt": 221.55,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AALFK5232D1ZI",
+            "inv": [
+                {
+                    "inum": "DNE/H/1011/25-26",
+                    "idt": "08-10-2025",
+                    "val": 4874,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 4642,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 116.05,
+                                "samt": 116.05,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1067/25-26",
+                    "idt": "17-10-2025",
+                    "val": 630,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 600,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 15,
+                                "samt": 15,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AABCI3922K1ZK",
+            "inv": [
+                {
+                    "inum": "DNE/H/1013/25-26",
+                    "idt": "08-10-2025",
+                    "val": 7560,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 7200,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 180,
+                                "samt": 180,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1106/25-26",
+                    "idt": "28-10-2025",
+                    "val": 2940,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2800,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 70,
+                                "samt": 70,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36ADZFS3399G1Z4",
+            "inv": [
+                {
+                    "inum": "DNE/H/1027/25-26",
+                    "idt": "10-10-2025",
+                    "val": 966,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 920,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 23,
+                                "samt": 23,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1107/25-26",
+                    "idt": "28-10-2025",
+                    "val": 8946,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 8520,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 213.01,
+                                "samt": 213.01,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36ABZFA8846Q1Z3",
+            "inv": [
+                {
+                    "inum": "DNE/H/1036/25-26",
+                    "idt": "11-10-2025",
+                    "val": 7350,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 7000,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 175,
+                                "samt": 175,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AAACL7300H1ZT",
+            "inv": [
+                {
+                    "inum": "DNE/H/1063/25-26",
+                    "idt": "17-10-2025",
+                    "val": 1008,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 960,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 24,
+                                "samt": 24,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1071/25-26",
+                    "idt": "18-10-2025",
+                    "val": 4348,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 4141,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 103.53,
+                                "samt": 103.53,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AEVPL0420J1ZD",
+            "inv": [
+                {
+                    "inum": "DNE/H/1066/25-26",
+                    "idt": "17-10-2025",
+                    "val": 2258,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2150,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 53.75,
+                                "samt": 53.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "DNE/H/1075/25-26",
+                    "idt": "18-10-2025",
+                    "val": 15215,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 14490,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 362.25,
+                                "samt": 362.25,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AAGCC9043A1ZY",
+            "inv": [
+                {
+                    "inum": "DNE/H/1095/25-26",
+                    "idt": "24-10-2025",
+                    "val": 24056,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 21472,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 536.8,
+                                "samt": 536.8,
+                                "csamt": 0
+                            }
+                        },
+                        {
+                            "num": 2,
+                            "itm_det": {
+                                "txval": 1280,
+                                "rt": 18,
+                                "iamt": 0,
+                                "camt": 115.2,
+                                "samt": 115.2,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AELPJ0211K1ZQ",
+            "inv": [
+                {
+                    "inum": "DNE/H/1116/25-26",
+                    "idt": "31-10-2025",
+                    "val": 2205,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2100,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 52.5,
+                                "samt": 52.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "36AABCP2269A1ZS",
+            "inv": [
+                {
+                    "inum": "DNE/H/1119/25-26",
+                    "idt": "31-10-2025",
+                    "val": 11246,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 10710,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 267.75,
+                                "samt": 267.75,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "b2cs": [
+        {
+            "typ": "OE",
+            "sply_ty": "INTRA",
+            "rt": 0,
+            "pos": "36",
+            "txval": 13070,
+            "camt": 0,
+            "samt": 0,
+            "csamt": 0
+        },
+        {
+            "typ": "OE",
+            "sply_ty": "INTRA",
+            "rt": 5,
+            "pos": "36",
+            "txval": 111797.47,
+            "camt": 2795.01,
+            "samt": 2795.01,
+            "csamt": 0
+        },
+        {
+            "typ": "OE",
+            "sply_ty": "INTRA",
+            "rt": 18,
+            "pos": "36",
+            "txval": 2677.64,
+            "camt": 240.99,
+            "samt": 240.99,
+            "csamt": 0
+        }
+    ],
+    "cdnr": [
+        {
+            "ctin": "36ABBCS1727P1ZZ",
+            "nt": [
+                {
+                    "val": 1890,
+                    "ntty": "C",
+                    "nt_num": "24",
+                    "nt_dt": "25-10-2025",
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1800,
+                                "rt": 5,
+                                "iamt": 0,
+                                "camt": 45,
+                                "samt": 45,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "nil": {
+        "inv": [
+            {
+                "sply_ty": "INTRAB2B",
+                "nil_amt": 111692.5,
+                "expt_amt": -885,
+                "ngsup_amt": 0
+            },
+            {
+                "sply_ty": "INTRAB2C",
+                "nil_amt": 2310,
+                "expt_amt": 0,
+                "ngsup_amt": 0
+            },
+            {
+                "sply_ty": "INTRB2B",
+                "nil_amt": 33600,
+                "expt_amt": 0,
+                "ngsup_amt": 0
+            }
+        ]
+    },
+    "hsn": {
+        "hsn_b2b": {
+            "data": [
+                {
+                    "num": 1,
+                    "hsn_sc": "02031100",
+                    "txval": 2219.03,
+                    "iamt": 35,
+                    "camt": 37.97,
+                    "samt": 37.97,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 9,
+                    "rt": 5
+                },
+                {
+                    "num": 2,
+                    "hsn_sc": "02032200",
+                    "txval": 338.1,
+                    "iamt": 0,
+                    "camt": 8.45,
+                    "samt": 8.45,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 3,
+                    "hsn_sc": "02074200",
+                    "txval": 11440,
+                    "iamt": 0,
+                    "camt": 286,
+                    "samt": 286,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 22,
+                    "rt": 5
+                },
+                {
+                    "num": 4,
+                    "hsn_sc": "03021400",
+                    "txval": 55892.5,
+                    "iamt": 0,
+                    "camt": 0,
+                    "samt": 0,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 33.6,
+                    "rt": 0
+                },
+                {
+                    "num": 5,
+                    "hsn_sc": "03035990",
+                    "txval": 476.19,
+                    "iamt": 0,
+                    "camt": 11.9,
+                    "samt": 11.9,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 6,
+                    "hsn_sc": "03038400",
+                    "txval": 7520,
+                    "iamt": 0,
+                    "camt": 188,
+                    "samt": 188,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 4.7,
+                    "rt": 5
+                },
+                {
+                    "num": 7,
+                    "hsn_sc": "03038990",
+                    "txval": 20340,
+                    "iamt": 0,
+                    "camt": 508.5,
+                    "samt": 508.5,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 5.65,
+                    "rt": 5
+                },
+                {
+                    "num": 8,
+                    "hsn_sc": "0304",
+                    "txval": 1095.24,
+                    "iamt": 0,
+                    "camt": 27.38,
+                    "samt": 27.38,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 9,
+                    "hsn_sc": "03041000",
+                    "txval": 466.67,
+                    "iamt": 0,
+                    "camt": 11.67,
+                    "samt": 11.67,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 0.1,
+                    "rt": 5
+                },
+                {
+                    "num": 10,
+                    "hsn_sc": "03044940",
+                    "txval": 28245,
+                    "iamt": 0,
+                    "camt": 706.14,
+                    "samt": 706.14,
+                    "csamt": 0,
+                    "desc": "Yellow Fin Tuna Saku",
+                    "uqc": "KGS",
+                    "qty": 13.08,
+                    "rt": 5
+                },
+                {
+                    "num": 11,
+                    "hsn_sc": "03044990",
+                    "txval": 34343,
+                    "iamt": 0,
+                    "camt": 858.58,
+                    "samt": 858.58,
+                    "csamt": 0,
+                    "desc": "Hamachi Fillet(Yellow Tail)",
+                    "uqc": "KGS",
+                    "qty": 9.61,
+                    "rt": 5
+                },
+                {
+                    "num": 12,
+                    "hsn_sc": "03046200",
+                    "txval": 19720,
+                    "iamt": 0,
+                    "camt": 493,
+                    "samt": 493,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 58,
+                    "rt": 5
+                },
+                {
+                    "num": 13,
+                    "hsn_sc": "03048100",
+                    "txval": 266.67,
+                    "iamt": 0,
+                    "camt": 6.67,
+                    "samt": 6.67,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 14,
+                    "hsn_sc": "03048700",
+                    "txval": 290230,
+                    "iamt": 0,
+                    "camt": 7255.76,
+                    "samt": 7255.76,
+                    "csamt": 0,
+                    "desc": "Yellow Fin Tuna Saku",
+                    "uqc": "KGS",
+                    "qty": 128.65,
+                    "rt": 5
+                },
+                {
+                    "num": 15,
+                    "hsn_sc": "03048990",
+                    "txval": 523.81,
+                    "iamt": 0,
+                    "camt": 13.1,
+                    "samt": 13.1,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 0.34,
+                    "rt": 5
+                },
+                {
+                    "num": 16,
+                    "hsn_sc": "03061400",
+                    "txval": 8000,
+                    "iamt": 0,
+                    "camt": 200,
+                    "samt": 200,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 7,
+                    "rt": 5
+                },
+                {
+                    "num": 17,
+                    "hsn_sc": "03061400",
+                    "txval": 13764,
+                    "iamt": 0,
+                    "camt": 344.11,
+                    "samt": 344.11,
+                    "csamt": 0,
+                    "desc": "Soft Shell Crab",
+                    "uqc": "KGS",
+                    "qty": 8.88,
+                    "rt": 5
+                },
+                {
+                    "num": 18,
+                    "hsn_sc": "03061719",
+                    "txval": 933.33,
+                    "iamt": 0,
+                    "camt": 23.33,
+                    "samt": 23.33,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 3,
+                    "rt": 5
+                },
+                {
+                    "num": 19,
+                    "hsn_sc": "03071100",
+                    "txval": 750,
+                    "iamt": 0,
+                    "camt": 18.75,
+                    "samt": 18.75,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 20,
+                    "hsn_sc": "03072100",
+                    "txval": 180.95,
+                    "iamt": 0,
+                    "camt": 4.52,
+                    "samt": 4.52,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 21,
+                    "hsn_sc": "04069000",
+                    "txval": 9225.7,
+                    "iamt": 461.29,
+                    "camt": 0,
+                    "samt": 0,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 6.9,
+                    "rt": 5
+                },
+                {
+                    "num": 22,
+                    "hsn_sc": "07095100",
+                    "txval": 2805,
+                    "iamt": 0,
+                    "camt": 70.13,
+                    "samt": 70.13,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 17,
+                    "rt": 5
+                },
+                {
+                    "num": 23,
+                    "hsn_sc": "07102900",
+                    "txval": 223120,
+                    "iamt": 0,
+                    "camt": 0,
+                    "samt": 0,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1070,
+                    "rt": 0
+                },
+                {
+                    "num": 24,
+                    "hsn_sc": "07119020",
+                    "txval": 600,
+                    "iamt": 30,
+                    "camt": 0,
+                    "samt": 0,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 5,
+                    "rt": 5
+                },
+                {
+                    "num": 25,
+                    "hsn_sc": "07119020",
+                    "txval": 6090,
+                    "iamt": 0,
+                    "camt": 0,
+                    "samt": 0,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 102,
+                    "rt": 0
+                },
+                {
+                    "num": 26,
+                    "hsn_sc": "07123200",
+                    "txval": 1050,
+                    "iamt": 0,
+                    "camt": 26.25,
+                    "samt": 26.25,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 27,
+                    "hsn_sc": "09024040",
+                    "txval": 1230,
+                    "iamt": 0,
+                    "camt": 30.75,
+                    "samt": 30.75,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 3,
+                    "rt": 5
+                },
+                {
+                    "num": 28,
+                    "hsn_sc": "09092110",
+                    "txval": 677.38,
+                    "iamt": 0,
+                    "camt": 16.94,
+                    "samt": 16.94,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 9,
+                    "rt": 5
+                },
+                {
+                    "num": 29,
+                    "hsn_sc": "10063090",
+                    "txval": 219643.47,
+                    "iamt": 1467.5,
+                    "camt": 4757.34,
+                    "samt": 4757.34,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 904,
+                    "rt": 5
+                },
+                {
+                    "num": 30,
+                    "hsn_sc": "10063099",
+                    "txval": 2580,
+                    "iamt": 0,
+                    "camt": 64.5,
+                    "samt": 64.5,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 12,
+                    "rt": 5
+                },
+                {
+                    "num": 31,
+                    "hsn_sc": "11029022",
+                    "txval": 4180,
+                    "iamt": 0,
+                    "camt": 104.5,
+                    "samt": 104.5,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 22,
+                    "rt": 5
+                },
+                {
+                    "num": 32,
+                    "hsn_sc": "11063090",
+                    "txval": 11000,
+                    "iamt": 0,
+                    "camt": 275,
+                    "samt": 275,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 14,
+                    "rt": 5
+                },
+                {
+                    "num": 33,
+                    "hsn_sc": "11081100",
+                    "txval": 280,
+                    "iamt": 0,
+                    "camt": 7,
+                    "samt": 7,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 2,
+                    "rt": 5
+                },
+                {
+                    "num": 34,
+                    "hsn_sc": "12119029",
+                    "txval": 5650,
+                    "iamt": 0,
+                    "camt": 141.25,
+                    "samt": 141.25,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 8,
+                    "rt": 5
+                },
+                {
+                    "num": 35,
+                    "hsn_sc": "15099090",
+                    "txval": 36600,
+                    "iamt": 0,
+                    "camt": 915,
+                    "samt": 915,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 24,
+                    "rt": 5
+                },
+                {
+                    "num": 36,
+                    "hsn_sc": "15151100",
+                    "txval": 735,
+                    "iamt": 0,
+                    "camt": 18.38,
+                    "samt": 18.38,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 3,
+                    "rt": 5
+                },
+                {
+                    "num": 37,
+                    "hsn_sc": "15155091",
+                    "txval": 5200,
+                    "iamt": 0,
+                    "camt": 130,
+                    "samt": 130,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 16,
+                    "rt": 5
+                },
+                {
+                    "num": 38,
+                    "hsn_sc": "16022000",
+                    "txval": 457.14,
+                    "iamt": 0,
+                    "camt": 11.43,
+                    "samt": 11.43,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 39,
+                    "hsn_sc": "16023100",
+                    "txval": 361.9,
+                    "iamt": 0,
+                    "camt": 9.05,
+                    "samt": 9.05,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 40,
+                    "hsn_sc": "16041100",
+                    "txval": 532.14,
+                    "iamt": 0,
+                    "camt": 13.3,
+                    "samt": 13.3,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 2,
+                    "rt": 5
+                },
+                {
+                    "num": 41,
+                    "hsn_sc": "16041290",
+                    "txval": 39200,
+                    "iamt": 0,
+                    "camt": 980,
+                    "samt": 980,
+                    "csamt": 0,
+                    "desc": "Tobikko Green Flying Fish Roe 500g",
+                    "uqc": "PAC",
+                    "qty": 16,
+                    "rt": 5
+                },
+                {
+                    "num": 42,
+                    "hsn_sc": "16041410",
+                    "txval": 1482.16,
+                    "iamt": 0,
+                    "camt": 37.05,
+                    "samt": 37.05,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 12,
+                    "rt": 5
+                },
+                {
+                    "num": 43,
+                    "hsn_sc": "16041700",
+                    "txval": 1200,
+                    "iamt": 0,
+                    "camt": 30,
+                    "samt": 30,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 44,
+                    "hsn_sc": "16041700",
+                    "txval": 25604.5,
+                    "iamt": 0,
+                    "camt": 640.11,
+                    "samt": 640.11,
+                    "csamt": 0,
+                    "desc": "Unagi Grilled Eel (Kabayaki)",
+                    "uqc": "KGS",
+                    "qty": 5.54,
+                    "rt": 5
+                },
+                {
+                    "num": 45,
+                    "hsn_sc": "16042000",
+                    "txval": 12885,
+                    "iamt": 0,
+                    "camt": 322.13,
+                    "samt": 322.13,
+                    "csamt": 0,
+                    "desc": "Frozen Imitation Crab Stick 500grm",
+                    "uqc": "PAC",
+                    "qty": 48,
+                    "rt": 5
+                },
+                {
+                    "num": 46,
+                    "hsn_sc": "16043200",
+                    "txval": 5600,
+                    "iamt": 0,
+                    "camt": 140,
+                    "samt": 140,
+                    "csamt": 0,
+                    "desc": "FROZEN IKURA (SALMON ROE) 500g\r\n",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 47,
+                    "hsn_sc": "16052100",
+                    "txval": 170,
+                    "iamt": 0,
+                    "camt": 4.25,
+                    "samt": 4.25,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 2,
+                    "rt": 5
+                },
+                {
+                    "num": 48,
+                    "hsn_sc": "19011010",
+                    "txval": 2640,
+                    "iamt": 0,
+                    "camt": 66,
+                    "samt": 66,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 12,
+                    "rt": 5
+                },
+                {
+                    "num": 49,
+                    "hsn_sc": "19012000",
+                    "txval": 3325,
+                    "iamt": 0,
+                    "camt": 83.13,
+                    "samt": 83.13,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 15,
+                    "rt": 5
+                },
+                {
+                    "num": 50,
+                    "hsn_sc": "19019010",
+                    "txval": 1890,
+                    "iamt": 0,
+                    "camt": 47.25,
+                    "samt": 47.25,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 51,
+                    "hsn_sc": "19019090",
+                    "txval": 54420,
+                    "iamt": 135,
+                    "camt": 1293,
+                    "samt": 1293,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 202,
+                    "rt": 5
+                },
+                {
+                    "num": 52,
+                    "hsn_sc": "19021900",
+                    "txval": 33151.48,
+                    "iamt": 779,
+                    "camt": 439.3,
+                    "samt": 439.3,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 196,
+                    "rt": 5
+                },
+                {
+                    "num": 53,
+                    "hsn_sc": "19022090",
+                    "txval": 16896,
+                    "iamt": 0,
+                    "camt": 422.4,
+                    "samt": 422.4,
+                    "csamt": 0,
+                    "desc": "Ramen",
+                    "uqc": "PAC",
+                    "qty": 217,
+                    "rt": 5
+                },
+                {
+                    "num": 54,
+                    "hsn_sc": "190230",
+                    "txval": 550,
+                    "iamt": 0,
+                    "camt": 13.75,
+                    "samt": 13.75,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 11,
+                    "rt": 5
+                },
+                {
+                    "num": 55,
+                    "hsn_sc": "19023090",
+                    "txval": 750,
+                    "iamt": 0,
+                    "camt": 45,
+                    "samt": 45,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 10,
+                    "rt": 12
+                },
+                {
+                    "num": 56,
+                    "hsn_sc": "19023090",
+                    "txval": 7605,
+                    "iamt": 0,
+                    "camt": 190.13,
+                    "samt": 190.13,
+                    "csamt": 0,
+                    "desc": "19023090",
+                    "uqc": "PAC",
+                    "qty": 82,
+                    "rt": 5
+                },
+                {
+                    "num": 57,
+                    "hsn_sc": "19030000",
+                    "txval": 1550,
+                    "iamt": 0,
+                    "camt": 38.75,
+                    "samt": 38.75,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 11,
+                    "rt": 5
+                },
+                {
+                    "num": 58,
+                    "hsn_sc": "19041020",
+                    "txval": 2160,
+                    "iamt": 0,
+                    "camt": 54,
+                    "samt": 54,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 45,
+                    "rt": 5
+                },
+                {
+                    "num": 59,
+                    "hsn_sc": "19041090",
+                    "txval": 960,
+                    "iamt": 0,
+                    "camt": 24,
+                    "samt": 24,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 20,
+                    "rt": 5
+                },
+                {
+                    "num": 60,
+                    "hsn_sc": "19049000",
+                    "txval": 1735,
+                    "iamt": 0,
+                    "camt": 43.38,
+                    "samt": 43.38,
+                    "csamt": 0,
+                    "desc": "19049000",
+                    "uqc": "PAC",
+                    "qty": 18,
+                    "rt": 5
+                },
+                {
+                    "num": 61,
+                    "hsn_sc": "19054000",
+                    "txval": 2650,
+                    "iamt": 0,
+                    "camt": 66.25,
+                    "samt": 66.25,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 20,
+                    "rt": 5
+                },
+                {
+                    "num": 62,
+                    "hsn_sc": "19059090",
+                    "txval": 1595,
+                    "iamt": 0,
+                    "camt": 39.88,
+                    "samt": 39.88,
+                    "csamt": 0,
+                    "desc": "Panko Bread Crumbs",
+                    "uqc": "PAC",
+                    "qty": 11,
+                    "rt": 5
+                },
+                {
+                    "num": 63,
+                    "hsn_sc": "20019000",
+                    "txval": 54687.33,
+                    "iamt": 0,
+                    "camt": 1367.18,
+                    "samt": 1367.18,
+                    "csamt": 0,
+                    "desc": "Ginger Pickles",
+                    "uqc": "PAC",
+                    "qty": 126,
+                    "rt": 5
+                },
+                {
+                    "num": 64,
+                    "hsn_sc": "20029000",
+                    "txval": 1500,
+                    "iamt": 75,
+                    "camt": 0,
+                    "samt": 0,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 10,
+                    "rt": 5
+                },
+                {
+                    "num": 65,
+                    "hsn_sc": "20031000",
+                    "txval": 8400,
+                    "iamt": 0,
+                    "camt": 210,
+                    "samt": 210,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 8,
+                    "rt": 5
+                },
+                {
+                    "num": 66,
+                    "hsn_sc": "20049000",
+                    "txval": 3645,
+                    "iamt": 0,
+                    "camt": 91.13,
+                    "samt": 91.13,
+                    "csamt": 0,
+                    "desc": "Sansho Powder",
+                    "uqc": "PAC",
+                    "qty": 21,
+                    "rt": 5
+                },
+                {
+                    "num": 67,
+                    "hsn_sc": "20049000",
+                    "txval": 2100,
+                    "iamt": 0,
+                    "camt": 52.5,
+                    "samt": 52.5,
+                    "csamt": 0,
+                    "desc": "WASABI TUBE 505",
+                    "uqc": "PCS",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 68,
+                    "hsn_sc": "20059100",
+                    "txval": 1072,
+                    "iamt": 0,
+                    "camt": 26.81,
+                    "samt": 26.81,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 16,
+                    "rt": 5
+                },
+                {
+                    "num": 69,
+                    "hsn_sc": "20059900",
+                    "txval": 4440,
+                    "iamt": 222,
+                    "camt": 0,
+                    "samt": 0,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 6,
+                    "rt": 5
+                },
+                {
+                    "num": 70,
+                    "hsn_sc": "20059900",
+                    "txval": 875,
+                    "iamt": 0,
+                    "camt": 21.88,
+                    "samt": 21.88,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 5,
+                    "rt": 5
+                },
+                {
+                    "num": 71,
+                    "hsn_sc": "20081990",
+                    "txval": 13003.48,
+                    "iamt": 519.55,
+                    "camt": 65.32,
+                    "samt": 65.32,
+                    "csamt": 0,
+                    "desc": "20081990",
+                    "uqc": "PAC",
+                    "qty": 338,
+                    "rt": 5
+                },
+                {
+                    "num": 72,
+                    "hsn_sc": "20089999",
+                    "txval": 2400,
+                    "iamt": 0,
+                    "camt": 60,
+                    "samt": 60,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 4,
+                    "rt": 5
+                },
+                {
+                    "num": 73,
+                    "hsn_sc": "20089999",
+                    "txval": 31567,
+                    "iamt": 0,
+                    "camt": 789.18,
+                    "samt": 789.18,
+                    "csamt": 0,
+                    "desc": "Sushi Nori Sheet 50pcs/pkt",
+                    "uqc": "PAC",
+                    "qty": 56,
+                    "rt": 5
+                },
+                {
+                    "num": 74,
+                    "hsn_sc": "20099000",
+                    "txval": 23125,
+                    "iamt": 0,
+                    "camt": 578.13,
+                    "samt": 578.13,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 125,
+                    "rt": 5
+                },
+                {
+                    "num": 75,
+                    "hsn_sc": "21012010",
+                    "txval": 1740,
+                    "iamt": 0,
+                    "camt": 43.5,
+                    "samt": 43.5,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 6,
+                    "rt": 5
+                },
+                {
+                    "num": 76,
+                    "hsn_sc": "21012020",
+                    "txval": 2900,
+                    "iamt": 0,
+                    "camt": 261,
+                    "samt": 261,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 18
+                },
+                {
+                    "num": 77,
+                    "hsn_sc": "21012090",
+                    "txval": 495,
+                    "iamt": 0,
+                    "camt": 12.38,
+                    "samt": 12.38,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 78,
+                    "hsn_sc": "21031000",
+                    "txval": 18838.56,
+                    "iamt": 102.5,
+                    "camt": 419.72,
+                    "samt": 419.72,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 61,
+                    "rt": 5
+                },
+                {
+                    "num": 79,
+                    "hsn_sc": "21039010",
+                    "txval": 9480,
+                    "iamt": 0,
+                    "camt": 237,
+                    "samt": 237,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 12,
+                    "rt": 5
+                },
+                {
+                    "num": 80,
+                    "hsn_sc": "21039010",
+                    "txval": 26920,
+                    "iamt": 0,
+                    "camt": 673.01,
+                    "samt": 673.01,
+                    "csamt": 0,
+                    "desc": "Yuzu Kosho 150 Gm",
+                    "uqc": "PAC",
+                    "qty": 57,
+                    "rt": 5
+                },
+                {
+                    "num": 81,
+                    "hsn_sc": "21039020",
+                    "txval": 16540,
+                    "iamt": 0,
+                    "camt": 413.5,
+                    "samt": 413.5,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 72,
+                    "rt": 5
+                },
+                {
+                    "num": 82,
+                    "hsn_sc": "21039030",
+                    "txval": 2576,
+                    "iamt": 0,
+                    "camt": 64.4,
+                    "samt": 64.4,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 8,
+                    "rt": 5
+                },
+                {
+                    "num": 83,
+                    "hsn_sc": "21039030",
+                    "txval": 32511.97,
+                    "iamt": 0,
+                    "camt": 812.8,
+                    "samt": 812.8,
+                    "csamt": 0,
+                    "desc": "Kewpie Mayonnaise 1Kg",
+                    "uqc": "PAC",
+                    "qty": 75,
+                    "rt": 5
+                },
+                {
+                    "num": 84,
+                    "hsn_sc": "21039030",
+                    "txval": 1620,
+                    "iamt": 0,
+                    "camt": 97.2,
+                    "samt": 97.2,
+                    "csamt": 0,
+                    "desc": "Kewpie Mayonnaise 520ml",
+                    "uqc": "PAC",
+                    "qty": 3,
+                    "rt": 12
+                },
+                {
+                    "num": 85,
+                    "hsn_sc": "21039040",
+                    "txval": 4750,
+                    "iamt": 0,
+                    "camt": 118.75,
+                    "samt": 118.75,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "BTL",
+                    "qty": 5,
+                    "rt": 5
+                },
+                {
+                    "num": 86,
+                    "hsn_sc": "21039040",
+                    "txval": 3000,
+                    "iamt": 0,
+                    "camt": 270,
+                    "samt": 270,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "BTL",
+                    "qty": 4,
+                    "rt": 18
+                },
+                {
+                    "num": 87,
+                    "hsn_sc": "21039040",
+                    "txval": 51452,
+                    "iamt": 705,
+                    "camt": 933.82,
+                    "samt": 933.82,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 119,
+                    "rt": 5
+                },
+                {
+                    "num": 88,
+                    "hsn_sc": "21039090",
+                    "txval": 5060,
+                    "iamt": 492,
+                    "camt": 57.6,
+                    "samt": 57.6,
+                    "csamt": 0,
+                    "desc": "Wasabi Paste",
+                    "uqc": "PAC",
+                    "qty": 7,
+                    "rt": 12
+                },
+                {
+                    "num": 89,
+                    "hsn_sc": "21039090",
+                    "txval": 39707.53,
+                    "iamt": 46,
+                    "camt": 969.69,
+                    "samt": 969.69,
+                    "csamt": 0,
+                    "desc": "Wasabi Paste",
+                    "uqc": "PAC",
+                    "qty": 38,
+                    "rt": 5
+                },
+                {
+                    "num": 90,
+                    "hsn_sc": "21041090",
+                    "txval": 460,
+                    "iamt": 0,
+                    "camt": 11.5,
+                    "samt": 11.5,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 2,
+                    "rt": 5
+                },
+                {
+                    "num": 91,
+                    "hsn_sc": "21069099",
+                    "txval": 4640,
+                    "iamt": 0,
+                    "camt": 116,
+                    "samt": 116,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "KGS",
+                    "qty": 4,
+                    "rt": 5
+                },
+                {
+                    "num": 92,
+                    "hsn_sc": "21069099",
+                    "txval": 66949.75,
+                    "iamt": 510,
+                    "camt": 1418.75,
+                    "samt": 1418.75,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 368,
+                    "rt": 5
+                },
+                {
+                    "num": 93,
+                    "hsn_sc": "22090090",
+                    "txval": 4682.25,
+                    "iamt": 0,
+                    "camt": 421.4,
+                    "samt": 421.4,
+                    "csamt": 0,
+                    "desc": "VINEGAR MIZKAN \r\n",
+                    "uqc": "BTL",
+                    "qty": 24,
+                    "rt": 18
+                },
+                {
+                    "num": 94,
+                    "hsn_sc": "22090090",
+                    "txval": 14630,
+                    "iamt": 0,
+                    "camt": 365.75,
+                    "samt": 365.75,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 15,
+                    "rt": 5
+                },
+                {
+                    "num": 95,
+                    "hsn_sc": "22090090",
+                    "txval": 26445.39,
+                    "iamt": 0,
+                    "camt": 2380.09,
+                    "samt": 2380.09,
+                    "csamt": 0,
+                    "desc": "Vineger",
+                    "uqc": "PAC",
+                    "qty": 6,
+                    "rt": 18
+                },
+                {
+                    "num": 96,
+                    "hsn_sc": "25292200",
+                    "txval": 165,
+                    "iamt": 0,
+                    "camt": 4.13,
+                    "samt": 4.13,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 97,
+                    "hsn_sc": "29161290",
+                    "txval": 908.19,
+                    "iamt": 0,
+                    "camt": 22.7,
+                    "samt": 22.7,
+                    "csamt": 0,
+                    "desc": "INARI 500G",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 98,
+                    "hsn_sc": "44190010",
+                    "txval": 799,
+                    "iamt": 0,
+                    "camt": 19.98,
+                    "samt": 19.98,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 21,
+                    "rt": 5
+                },
+                {
+                    "num": 99,
+                    "hsn_sc": "46012010",
+                    "txval": 1980,
+                    "iamt": 0,
+                    "camt": 49.5,
+                    "samt": 49.5,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 9,
+                    "rt": 5
+                },
+                {
+                    "num": 100,
+                    "hsn_sc": "82119200",
+                    "txval": 1800,
+                    "iamt": 0,
+                    "camt": 162,
+                    "samt": 162,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 1,
+                    "rt": 18
+                },
+                {
+                    "num": 101,
+                    "hsn_sc": "82119200",
+                    "txval": 5400,
+                    "iamt": 0,
+                    "camt": 135,
+                    "samt": 135,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 3,
+                    "rt": 5
+                },
+                {
+                    "num": 102,
+                    "hsn_sc": "82119390",
+                    "txval": 1800,
+                    "iamt": 0,
+                    "camt": 45,
+                    "samt": 45,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PAC",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 103,
+                    "hsn_sc": "82159900",
+                    "txval": 331.04,
+                    "iamt": 0,
+                    "camt": 8.28,
+                    "samt": 8.28,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "PCS",
+                    "qty": 1,
+                    "rt": 5
+                },
+                {
+                    "num": 104,
+                    "hsn_sc": "996511",
+                    "txval": 714,
+                    "iamt": 0,
+                    "camt": 17.85,
+                    "samt": 17.85,
+                    "csamt": 0,
+                    "desc": "",
+                    "uqc": "NA",
+                    "qty": 0,
+                    "rt": 5
+                }
+            ]
+        }
+    },
+    "doc_issue": {
+        "doc_det": [
+            {
+                "doc_num": 1,
+                "docs": [
+                    {
+                        "cancel": 1,
+                        "from": "DNE/H/0969/25-26",
+                        "net_issue": 128,
+                        "num": 1,
+                        "to": "DNE/H/1121/25-26",
+                        "totnum": 129
+                    }
+                ]
+            },
+            {
+                "doc_num": 5,
+                "docs": [
+                    {
+                        "cancel": 0,
+                        "from": "23",
+                        "net_issue": 2,
+                        "num": 1,
+                        "to": "24",
+                        "totnum": 2
+                    }
+                ]
+            }
+        ]
+    }
+}
