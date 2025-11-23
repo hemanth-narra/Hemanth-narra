@@ -1,7 +1,7 @@
 ---
 title: "Bulletproof File Sync Setup for CA Office: Ditching OneDrive Headaches"
 summary: Works like magic in seconds.
-time: 1700707200
+time: 1763856000
 ---
 
 In the world of Chartered Accountancy, the “standard” way to sync files across all laptops and systems is to keep paying for Microsoft 365 and still put up with slow, unreliable OneDrive sync. We faced constant latency, “file in use” conflicts, version mess-ups, and remote staff being completely cut off from the latest client files.
