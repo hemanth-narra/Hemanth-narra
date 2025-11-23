@@ -1,6 +1,6 @@
 ---
 title: "Bulletproof File Sync Setup for CA Office: Ditching OneDrive Headaches"
-summary: Works like magic in seconds.
+summary: Works like magic in seconds with syncthing and Tailscale
 time: 1763856000
 ---
 
@@ -15,7 +15,7 @@ Here’s exactly how I set it up, step by step.
 Syncthing is the engine that makes everything else possible. It’s an open-source tool that lets all your laptops and desktops share files directly with each other — no Microsoft server in the middle, no waiting for uploads, just instant sync the moment someone saves a ROC document or ITR file. It’s completely free forever, works offline inside the office, and only sends the tiny changed bits of a file instead of the whole thing.
 
 Installation is dead simple and the same on every machine:  
-go to https://syncthing.net/downloads/, download “Syncthing Windows 64-bit Setup”, run it, and let it finish. It will automatically open a browser tab at http://127.0.0.1:8384. First time only, set a username/password for security and give the device a clear name like “CA-Hareesh-Laptop”, “CA-Sirisha-Desktop”, “Article-Hepsi-PC”, etc. That’s it — Syncthing now runs quietly in the background on every laptop and desktop, waiting for us to tell it which folder to share.
+go to https://syncthing.net/downloads/ ,download “Syncthing Windows 64-bit Setup”, run it, and let it finish. It will automatically open a browser tab at http://127.0.0.1:8384. First time only, set a username/password for security and give the device a clear name like “CA-Hareesh-Laptop”, “CA-Sirisha-Desktop”, “Article-Hepsi-PC”, etc. That’s it — Syncthing now runs quietly in the background on every laptop and desktop, waiting for us to tell it which folder to share.
 
 ## The Master Folder – C:\ClientDATA
 
