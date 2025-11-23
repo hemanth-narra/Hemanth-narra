@@ -1,6 +1,8 @@
-# Bulletproof File Sync Setup for CA Office: Ditching OneDrive Headaches
-
-**Nov 23 2025, 2:15 PM**
+---
+title: "Bulletproof File Sync Setup for CA Office: Ditching OneDrive Headaches"
+summary: Works like magic in seconds.
+time: 1734907500
+---
 
 In the world of Chartered Accountancy, the “standard” way to sync files across all laptops and systems is to keep paying for Microsoft 365 and still put up with slow, unreliable OneDrive sync. We faced constant latency, “file in use” conflicts, version mess-ups, and remote staff being completely cut off from the latest client files.
 
@@ -22,7 +24,7 @@ We decided everything client-related lives inside a single, clearly named folder
 
 Do this on every machine (takes 10 seconds):
 
-1. Open File Explorer → This PC → right-click on C: drive → New → Folder → name it exactly **ClientDATA** (all caps, no spaces).
+1. Open File Explorer → This PC → right-click on C: drive → New → Folder → name it exactly **ClientDATA**.
 2. Inside it, I created a clean structure that every article and partner now follows religiously:
 
  ```
