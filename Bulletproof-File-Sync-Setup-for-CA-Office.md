@@ -75,6 +75,8 @@ Back on the main desktop you’ll see connection requests → Accept all.
 
 Within seconds (or minutes for the first big sync), every machine has an identical live copy. From now on, any change on any laptop appears on every other machine in 1–3 seconds when in office.
 
+**From now on, anyone creating a file or folder inside C:\ClientDATA — whether it’s a new ITR working, a scanned certificate, or an entire client folder — instantly appears on every single laptop in the firm within seconds.** No “refresh”, no waiting, no shouting across the cabin.
+
 Staggered versioning runs automatically on every device — unlimited undo history without thinking about it.
 
 ## Tailscale – For When Someone Works from Home (or Client Site)
