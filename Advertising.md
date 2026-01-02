@@ -82,10 +82,3 @@ Claims of being “No.1” or “best”, comparative advertising, guarantees of
 
 ICAI has relaxed communication rules, not ethical standards.
 
-## Closing Note
-
-ICAI did not turn Chartered Accountants into marketers. What it did was acknowledge how the profession actually operates in a digital world.
-
-Clients search online. Information builds trust. Explaining your work is not the same as soliciting business.
-
-As of 2026, CAs are allowed to present their work—not loudly, not competitively, but clearly and ethically. That’s the change, and it’s worth understanding properly.
