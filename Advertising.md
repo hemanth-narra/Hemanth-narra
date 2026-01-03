@@ -16,7 +16,7 @@ This post explains what ICAI allows now (as of 2026), what still isn’t allowed
 
 ## Advertising by Chartered Accountants: What Is Allowed Now
 
-Yes,advertising is allowed under ICAI rules, subject to conditions.
+Yes, advertising is allowed under ICAI rules, subject to conditions.
 
 CAs and CA firms may advertise professional services, both online and offline. This includes promoting specific areas of practice and using platforms like Google or LinkedIn to reach prospective clients.
 
