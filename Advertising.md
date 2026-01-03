@@ -8,15 +8,15 @@ If you’ve been practising as a Chartered Accountant for some time, you probabl
 
 And yet, over the last few years, something fundamental has changed.
 
-What earlier felt risky—explaining your services publicly, writing blog posts, sharing professional updates online, or even maintaining a detailed website—is now permitted under the updated ethical framework of the Institute of Chartered Accountants of India (ICAI).
+What earlier felt risky, explaining your services publicly, writing blog posts, sharing professional updates online, or even maintaining a detailed website is now permitted under the updated ethical framework of the Institute of Chartered Accountants of India (ICAI).
 
 The reform was quiet, but its impact on how Chartered Accountants communicate is significant.
 
-This post explains what ICAI allows now (as of 2026), what still isn’t allowed, and how CAs can present their work clearly, factually, and ethically, without second-guessing every sentence they publish.
+This post explains what ICAI allows now (as of 2026), what still isn’t allowed, and how CAs can present their work clearly, factually, and ethically, without second guessing every sentence they publish.
 
 ## Advertising by Chartered Accountants: What Is Allowed Now
 
-Yes—advertising is allowed under ICAI rules, subject to conditions.
+Yes,advertising is allowed under ICAI rules, subject to conditions.
 
 CAs and CA firms may advertise professional services, both online and offline. This includes promoting specific areas of practice and using platforms like Google or LinkedIn to reach prospective clients.
 
@@ -58,7 +58,7 @@ Educational and factual posts are acceptable. Aggressive calls to action or exag
 
 While ICAI continues to discourage price-based competition, fee transparency is allowed.
 
-Firms may explain how fees are determined, clarify scope-based pricing, or indicate fee ranges. This helps set expectations and reduces misunderstandings during engagements.
+Firms may explain how fees are determined, clarify scope based pricing, or indicate fee ranges. This helps set expectations and reduces misunderstandings during engagements.
 
 For example, stating that audit fees depend on turnover, complexity, and scope, with a detailed quote provided after initial review, is perfectly acceptable.
 
@@ -82,3 +82,9 @@ Claims of being “No.1” or “best”, comparative advertising, guarantees of
 
 ICAI has relaxed communication rules, not ethical standards.
 
+## What This Change Really Means for Chartered Accountants
+
+For small and mid-size CA firms, this creates real opportunities to communicate better, attract the right clients, and set expectations upfront — without compromising ethics.
+
+
+This is something I’m trying to do myself—write clearly about the work we do and present it properly online. Not as marketing, but as documentation of how a CA office actually works. A simple blog and a clean website aren’t risks anymore. They’re just practical tools, and ICAI finally recognises that.
