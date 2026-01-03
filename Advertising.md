@@ -72,7 +72,7 @@ What remains prohibited is turning such descriptions into claims of dominance or
 
 ICAI also allows transparent disclosure of overseas associations, referral networks, and international professional collaborations.
 
-This is particularly relevant for firms handling NRI clients or cross-border transactions. Such disclosures must be accurate, non-misleading, and should not compromise independence.
+This is particularly relevant for firms handling NRI clients or cross border transactions. Such disclosures must be accurate, non-misleading, and should not compromise independence.
 
 ## What ICAI Still Does Not Allow
 
@@ -84,7 +84,7 @@ ICAI has relaxed communication rules, not ethical standards.
 
 ## What This Change Really Means for Chartered Accountants
 
-For small and mid-size CA firms, this creates real opportunities to communicate better, attract the right clients, and set expectations upfront — without compromising ethics.
+For small and mid-size CA firms, this creates real opportunities to communicate better, attract the right clients, and set expectations upfront without compromising ethics.
 
 
-This is something I’m trying to do myself—write clearly about the work we do and present it properly online. Not as marketing, but as documentation of how a CA office actually works. A simple blog and a clean website aren’t risks anymore. They’re just practical tools, and ICAI finally recognises that.
+This is something I’m trying to do, write clearly about the work we do and present it properly online. Not as marketing, but as documentation of how a CA office actually works. A simple blog and a clean website aren’t risks anymore. They’re just practical tools, and ICAI finally recognises that.
